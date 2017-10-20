@@ -9,17 +9,15 @@ echo "my first time trying PHP!";
 $myfirst = "Hello world of course!";
 $FirstNum = 6;
 $firstFloat = 12.5;
+$this = "Hellow world!";
+$x = 2;
+$y = 2;
 
 echo $myfirst;
 echo "<br>";
 echo $firstNum;
 echo"<br>";
 echo $firstFloat;
-  
-$this = "Hellow world!";
-$x = 2;
-$y = 2;
-  
 echo $txt;
 echo "<br>";
 echo $x;
