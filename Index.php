@@ -15,7 +15,7 @@ echo "<br>";
 echo $firstNum;
 echo"<br>";
 echo $firstFloat;
- ?>
+
 
 ?>
 
